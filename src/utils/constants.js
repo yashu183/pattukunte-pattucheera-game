@@ -169,5 +169,15 @@ export const missingMovies = [
   "Nee Manasu Naaku Telusu",
   "Gemini",
   "Middle Class Melodies",
-  "Puttintiki Ra Chelli"
+  "Puttintiki Ra Chelli",
+  "Ninnila Ninnila",
+  "Virupaksha",
+  "Ghajini",
+  "Ante Sundaraniki",
+  "Romancham",
+  "Manamantha",
+  "24",
+  "Yentavaadu Gaani",
+  "Thuppaki",
+  "Phalana Abbayi Phalana Ammayi"
 ];
