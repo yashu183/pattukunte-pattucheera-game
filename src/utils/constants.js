@@ -193,5 +193,6 @@ export const missingMovies = [
   "A Aa",
   "Samajavaragamana",
   "Mounamelanoyi",
-  "Naandhi"
+  "Naandhi",
+  "Inkokkadu"
 ];
