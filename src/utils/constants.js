@@ -223,5 +223,6 @@ export const missingMovies = [
   "CoCo Kokila",
   "Karthikeya 2",
   "Comali",
-  "Skanda"
+  "Skanda",
+  "Krishna"
 ];
