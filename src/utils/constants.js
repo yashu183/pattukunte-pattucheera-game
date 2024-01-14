@@ -238,5 +238,11 @@ export const missingMovies = [
   "King of Kotha",
   "ABCD: Any Body Can Dance",
   "Kushi",
-  "Tiger Nageswara Rao"
+  "Tiger Nageswara Rao",
+  "Mangalavaaram",
+  "Mama Maschindra",
+  "Keedaa Cola",
+  "Chikkadu Dorakadu",
+  "Chandramukhi 2",
+  "The Road"
 ];
