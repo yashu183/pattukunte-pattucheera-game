@@ -283,5 +283,6 @@ export const missingMovies = [
   "Geethanjali Malli Vachindi",
   "The Family Star",
   "Premalu",
-  "Om Bheem Bush"
+  "Om Bheem Bush",
+  "Valari"
 ];
